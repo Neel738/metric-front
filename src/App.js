@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p> This website is currently under development. Check back later for cool content! :)</p>
-        
+        {window.location.href = "https://www.youtube.com/watch?v=9uRK8Delzvk"
+}
         
       </header>
 
